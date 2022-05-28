@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @conradevs
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Python, JS, HTML, CSS, React, Node
-- 💞️ I’m looking to collaborate on Development discussion 
 - 📫 How to reach me csilveiradev@gmail.com
 
 <!---
